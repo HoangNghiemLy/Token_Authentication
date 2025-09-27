@@ -4,15 +4,15 @@
 
 ## 📑 Mục lục
 
-- [⚙️ Cài đặt & Chạy dự án](#️-cài-đặt--chạy-dự-án)
-- [🅰️ CÂU A – Truy cập `/api/auth/profile` khi chưa có token](#️-câu-a)
-- [🅱️ CÂU B – Đăng ký tài khoản](#️-câu-b)
-- [🅲 CÂU C – Đăng nhập](#️-câu-c)
-- [🅳 CÂU D – Truy cập `/api/auth/profile` với token](#️-câu-d)
+- [⚙️ Cài đặt & Chạy dự án](#setup)
+- [🅰️ CÂU A – Truy cập `/api/auth/profile` khi chưa có token](#cau-a)
+- [🅱️ CÂU B – Đăng ký tài khoản](#cau-b)
+- [🅲 CÂU C – Đăng nhập](#cau-c)
+- [🅳 CÂU D – Truy cập `/api/auth/profile` với token](#cau-d)
 
 ---
 
-## ⚙️ Cài đặt & Chạy dự án
+## ⚙️ Cài đặt & Chạy dự án <a name="setup"></a>
 
 ### 📦 Cài đặt dependencies
 
@@ -22,7 +22,7 @@ npm install
 
 ---
 
-## 🅰️ CÂU A
+## 🅰️ CÂU A <a name="cau-a"></a>
 
 ### 🚫 Truy cập `/api/auth/profile` khi chưa có token
 
@@ -40,7 +40,7 @@ npm install
 
 ---
 
-## 🅱️ CÂU B
+## 🅱️ CÂU B <a name="cau-b"></a>
 
 ### 📝 Đăng ký tài khoản
 
@@ -54,7 +54,7 @@ npm install
 
 ---
 
-## 🅲 CÂU C
+## 🅲 CÂU C <a name="cau-c"></a>
 
 ### 🔑 Đăng nhập
 
@@ -68,7 +68,7 @@ npm install
 
 ---
 
-## 🅳 CÂU D
+## 🅳 CÂU D <a name="cau-d"></a>
 
 ### 👤 Truy cập `/api/auth/profile` với token
 
